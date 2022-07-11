@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
-	"homepage": "/",
+	"homepage": "https://likeroge.github.io/notes/",
 	"scripts": {
 		"build": "NODE_ENV='production' webpack",
 		"start": "webpack-dev-server",
