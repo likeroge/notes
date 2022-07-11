@@ -1,7 +1,5 @@
 # Notes app
 
-Github pages: https://likeroge.github.io/notes/
-
 ## Available Scripts
 
 ### `npm start`
